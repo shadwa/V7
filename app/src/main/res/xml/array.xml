@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
 
-</PreferenceScreen>
+<string-array name="verse">
+    <item>Ты видел деву на скале</item>
+    <item>В одежде белой над волнами</item>
+    <item>Когда, бушуя в бурной мгле,</item>
+    <item>Играло море с берегами,</item>
+    <item>Когда луч молний озарял</item>
+    <item>Ее всечасно блеском алым</item>
+    <item>И ветер бился и летал</item>
+    <item>С ее летучим покрывалом?</item>
+    <item>Прекрасно море в бурной мгле</item>
+    <item>И небо в блесках без лазури;</item>
+    <item>Но верь мне: дева на скале</item>
+    <item>Прекрасней волн, небес и бури.</item>
+</string-array>
